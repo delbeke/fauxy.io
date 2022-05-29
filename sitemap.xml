@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.fauxy.io/</loc>
+        <lastmod>2022-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://fauxy.io/livesound</loc>
+        <lastmod>2022-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://fauxy.io/recording</loc>
+        <lastmod>2022-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://fauxy.io/contact</loc>
+        <lastmod>2022-05-29</lastmod>
+    </url>
+</urlset>
